@@ -21,13 +21,15 @@ Generate a summary statistics table consisting of the mean, median, variance, st
 
 Generate a bar plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows  the number of mice per time point for each treatment regimen throughout the course of the study.
 
-
+![mice](mice1.png)
+![mice](mice2.png)
 NOTE: These plots should look identical.
 
 
 
 Generate a pie plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows the distribution of female or male mice in the study.
 
+![mice](mice3.png)
 
 NOTE: These plots should look identical.
 
@@ -38,6 +40,11 @@ Calculate the final tumor volume of each mouse across four of the most promising
 
 Using Matplotlib, generate a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
 
+![mice](mice4.png)
+
+![mice](mice5.png)
+
+![mice](mice6.png)
 
 ##### Analysis:
 1.Drugs Capomulin and Ramicane had the most number of mice tested 230 and 228 respectively. 
