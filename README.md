@@ -1,6 +1,6 @@
-# Matplotlib Homework - The Power of Plots
+# Matplotlib - The Power of Plots
 
-##Background
+## Background
 What good is data without a good plot to tell the story?
 So, let's take what you've learned about Python Matplotlib and apply it to a real-world situation and dataset:
 
@@ -9,7 +9,7 @@ As a senior data analyst at the company, you've been given access to the complet
 
 
 
-##Instructions
+## Instructions
 Your tasks are to do the following:
 
 
@@ -39,7 +39,7 @@ Calculate the final tumor volume of each mouse across four of the most promising
 Using Matplotlib, generate a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
 
 
-Analysis:
+##### Analysis:
 1.Drugs Capomulin and Ramicane had the most number of mice tested 230 and 228 respectively. 
 
 2. Drugs Capomulin and Ramicane show the most promising results. The tumor volume for these 2 drugs had the best reduction.
